@@ -1,0 +1,18 @@
+input {
+    border: 1px solid #DBDFE9;
+    padding: 14px;
+    border-radius: 10px;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    justify-content: center;
+}
+
+.search-icon {
+    position: absolute;
+    align-self: flex-end;
+    margin-right: 5px;
+}

@@ -1,0 +1,11 @@
+.header-container {
+    background-color: #296573;
+    display: flex;
+    justify-content: space-around;
+    padding: 15px
+}
+
+.header-text {
+    color: #fff;
+    font-size: 24px;
+}

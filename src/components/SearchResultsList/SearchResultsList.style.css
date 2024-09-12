@@ -1,0 +1,8 @@
+.results-list {
+    background-color: #ebedec;
+    border-radius: 10px;
+    overflow-y: scroll;
+    margin-top: 5px;
+    padding-left: 10px;
+    overflow: hidden;
+}
